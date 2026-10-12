@@ -170,7 +170,7 @@ Works cited as background only.
 
 ## Contact
 
-Savyasachi Gupta ([@gsavya10](https://github.com/gsavya10), [gsavya10@gmail.com](mailto:gsavya10@gmail.com)). For anything about the data, please [open an issue](https://github.com/gsavya10/rlvr-verifier-noise-corpus/issues).
+Savyasachi Gupta ([@gsavya10](https://github.com/gsavya10), [gsavya10@gmail.com](mailto:gsavya10@gmail.com)). For anything about the data, please [open an issue](https://github.com/reasoning-ai-lab/Checking-the-Checkers-RLVR/issues).
 
 ## License
 
