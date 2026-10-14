@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2610.17824"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2610.17824-b31b1b.svg"></a>
+  <a href="LICENSE"><img alt="License: CC BY 4.0" src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg"></a>
 </p>
 
 **Savyasachi Gupta** and **Aniruddha Srinivas Joshi**

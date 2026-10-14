@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository, please cite the accompanying paper (see
+  "preferred-citation").
+title: "Checking the Checkers: A Synthesis of Verifier Noise and Robustness in RLVR"
+license: CC-BY-4.0
+repository-code: "https://github.com/reasoning-ai-lab/Checking-the-Checkers-RLVR"
+url: "https://github.com/reasoning-ai-lab/Checking-the-Checkers-RLVR"
+authors:
+  - given-names: Savyasachi
+    family-names: Gupta
+    orcid: "https://orcid.org/0000-0002-9080-2028"
+  - given-names: Aniruddha Srinivas
+    family-names: Joshi
+    orcid: "https://orcid.org/0000-0002-1989-7597"
+preferred-citation:
+  type: generic
+  title: "Checking the Checkers: A Synthesis of Verifier Noise and Robustness in RLVR"
+  authors:
+    - given-names: Savyasachi
+      family-names: Gupta
+    - given-names: Aniruddha Srinivas
+      family-names: Joshi
+  year: 2026
+  url: "https://arxiv.org/abs/2610.17824"
+  identifiers:
+    - type: other
+      value: "arXiv:2610.17824"
+      description: arXiv preprint (cs.LG)
