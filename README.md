@@ -1,5 +1,9 @@
 # Checking the Checkers: A Synthesis of Verifier Noise and Robustness in RLVR
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2610.17824"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2610.17824-b31b1b.svg"></a>
+</p>
+
 **Savyasachi Gupta** and **Aniruddha Srinivas Joshi**
 
 *Accepted at the International Conference on Artificial Intelligence Centric Systems, Services, and Applications (AISSA 2026), San Antonio, Texas, USA.*
@@ -8,19 +12,19 @@ This repository accompanies our survey of 58 studies that measure, analyze, or m
 
 ## Citation
 
-> **TODO:** replace this entry with the final citation once the proceedings details are available.
+If you use the corpus, please cite the paper:
 
 ```bibtex
-@inproceedings{gupta2026checking,
-  title     = {Checking the Checkers: A Synthesis of Verifier Noise and Robustness in {RLVR}},
-  author    = {Gupta, Savyasachi and Joshi, Aniruddha Srinivas},
-  booktitle = {International Conference on Artificial Intelligence Centric Systems, Services, and Applications (AISSA)},
-  year      = {2026},
-  note      = {To appear}
+@misc{gupta2026checkingcheckerssynthesisverifier,
+      title={Checking the Checkers: A Synthesis of Verifier Noise and Robustness in RLVR}, 
+      author={Savyasachi Gupta and Aniruddha Srinivas Joshi},
+      year={2026},
+      eprint={2610.17824},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2610.17824}, 
 }
 ```
-
-**Preprint:** TODO: add arXiv link
 
 ## Taxonomy
 
